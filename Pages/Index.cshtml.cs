@@ -16,5 +16,10 @@ namespace FrisaTest01.Pages
         {
 
         }
+
+        public void Put()
+        {
+
+        }
     }
 }
